@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--If“UTF” stands for Unicode Standard Transformation Format. 
+It refers to a way of encoding characters (letters, symbols, etc.) defined by Unicode into bytes for storage or transmission.
+<xsl:stylesheet version="1.0"-->
+<?xml-stylesheet type="text/xsl" href="year24.xsl"?>
+<books>
+  <book>
+    <title>Deep Learning</title>
+    <author>Ian Goodfellow</author>
+    <publisher>MIT Press</publisher>
+    <isbn>978-0262035613</isbn>
+    <year>2024</year>
+    <edition>1st</edition>
+  </book>
+  <book>
+    <title>Artificial Intelligence: A Modern Approach</title>
+    <author>Stuart Russell</author>
+    <publisher>Pearson</publisher>
+    <isbn>978-0136042594</isbn>
+    <year>2022</year>
+    <edition>4th</edition>
+  </book>
+  <book>
+    <title>Clean Code</title>
+    <author>Robert C. Martin</author>
+    <publisher>Prentice Hall</publisher> 
+    <isbn>978-0132350884</isbn>
+    <year>2024</year>
+    <edition>1st</edition>
+  </book>
+  <book>
+    <title>The Pragmatic Programmer</title>
+    <author>Andrew Hunt</author>
+    <publisher>Addison-Wesley</publisher>
+    <isbn>978-0201616224</isbn>
+    <year>2019</year>
+    <edition>2nd</edition>
+  </book>
+  <book>
+    <title>Introduction to Algorithms</title>
+    <author>Thomas H. Cormen</author>
+    <publisher>MIT Press</publisher>
+    <isbn>978-0262033848</isbn>
+    <year>2024</year>
+    <edition>3rd</edition>
+  </book>
+  <book>
+    <title>Design Patterns</title>
+    <author>Erich Gamma</author>
+    <publisher>Addison-Wesley</publisher>
+    <isbn>978-0201633610</isbn>
+    <year>2023</year>
+    <edition>1st</edition>
+  </book>
+  <book>
+    <title>Deep Reinforcement Learning</title>
+    <author>Richard S. Sutton</author>
+    <publisher>MIT Press</publisher>
+    <isbn>978-0262039246</isbn>
+    <year>2024</year>
+    <edition>1st</edition>
+  </book>
+  <book>
+    <title>Computer Networks</title>
+    <author>Andrew S. Tanenbaum</author>
+    <publisher>Prentice Hall</publisher>
+    <isbn>978-0132126953</isbn>
+    <year>2025</year>
+    <edition>5th</edition>
+  </book>
+  <book>
+    <title>Introduction to Machine Learning</title>
+    <author>Ethem Alpaydin</author>
+    <publisher>MIT Press</publisher>
+    <isbn>978-0262028189</isbn>
+    <year>2017</year>
+    <edition>2nd</edition>
+  </book>
+  <book>
+    <title>Pattern Recognition and Machine Learning</title>
+    <author>Christopher Bishop</author>
+    <publisher>Springer</publisher>
+    <isbn>978-0387310732</isbn>
+    <year>2016</year>
+    <edition>1st</edition>
+  </book>
+</books>

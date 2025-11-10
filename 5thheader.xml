@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+    <unit type="Batch">
+        <unit-info>
+            <unit-id>5</unit-id>
+            <order-id>5</order-id>
+        </unit-info>
+        <unit-content>
+            <bibrecord>
+                <head>
+                    <citation-info>
+                        <citation-language xml:lang="ENG"/>
+                        <abstract-language xml:lang="ENG"/>
+                    </citation-info>
+                    <citation-title>
+                        <titletext xml:lang="ENG" original="y">Numerical Modeling of Rifting: An Overview </titletext>
+                    </citation-title>
+                    <author-group seq="1">
+                        <author seq="1">
+                            <ce:initials>P.</ce:initials>
+                            <ce:surname>Marta</ce:surname>
+                            <ce:given-name>PÉREZ-GUSSINYÉ</ce:given-name>
+                        </author>
+                        <author seq="2">
+                            <ce:initials>L.</ce:initials>
+                            <ce:surname>Zhonglan</ce:surname>
+                            <ce:given-name>LIU</ce:given-name>
+                        </author>
+                    </author-group>
+                    <affiliation>
+                        <affiliation id="1">
+                            <organization>University of Bermen</organization>
+                            <organization>MARUM</organization>
+                            <organization>Center for Marine Environmental Sciences</organization>
+                            <country iso-code="DEU" />
+                        </affiliation>
+                    </affiliation>
+                    <abstracts>
+                        <abstract xml:lang="ENG" original="y">
+                            <publishercopyright>© ISTE Ltd 2022. Published by ISTE Ltd and John Wiley and Sons, Inc.</publishercopyright>
+                        </abstract>
+                    </abstracts>
+                    <source type="book" country="USA">
+                        <sourcetitle> Continental Rifted Margins 1</sourcetitle>
+                        <ISBN13>9781119986904; 9781789450613; 9781119986911</ISBN13>
+                        <E-ISBN13>9781119986928</E-ISBN13>
+                           <volisspag>
+                            <page-information>
+                                <pages>
+                                    <first-page>265</first-page>
+                                    <last-page>308</last-page>
+                                </pages>
+                            </page-information>
+                        </volisspag>
+                        <publicationyear first="2022"/>
+                        <publicationdate>
+                            <year>2022</year>
+                            <month>07</month>
+                            <day>27</day>
+                        </publicationdate>
+                        <publisher>
+                            <publishername>Wiley</publishername>
+                        </publisher>
+                    </source>
+                    <enhancement>
+                        <classificationgroup>
+                            <classifications type="ASJC">
+                                <classification>
+                                    <classification-code>1900</classification-code>
+                                    <classification-code>3100</classification-code>
+                                </classification>
+                            </classifications>
+                        </classificationgroup>
+                    </enhancement>
+                </head>
+            </bibrecord>
+        </unit-content>
+    </unit>
+</units>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--If“UTF” stands for Unicode Standard Transformation Format. 
+It refers to a way of encoding characters (letters, symbols, etc.) defined by Unicode into bytes for storage or transmission.
+<xsl:stylesheet version="1.0"-->
+<?xml-stylesheet type="text/xsl" href="keywords.xsl"?>
+<keywords>
+    <keyword>
+        <key>technology</key>
+        <value>artificial intelligence</value>
+    </keyword>
+    <keyword>
+        <key>field</key>
+        <value>datascience</value>
+    </keyword>
+    <keyword>
+        <key>language</key>
+        <value>python</value>
+    </keyword>
+    <keyword>
+        <key>domain</key>
+        <value>machine learning</value>
+    </keyword>
+    <keyword>
+        <key>specialization</key>
+        <value>datascience</value>
+    </keyword>
+    <keyword>
+        <key>tool</key>
+        <value>jupyter</value>
+    </keyword>
+    <keyword>
+        <key>methodology</key>
+        <value>datascience</value>
+    </keyword>
+</keywords>

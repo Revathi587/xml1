@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><!--common text encoding
+If“UTF” stands for Unicode Standard Transformation Format. 
+It refers to a way of encoding characters (letters, symbols, etc.) defined by Unicode into bytes for storage or transmission.
+<xsl:stylesheet version="1.0"-->
+<?xml-stylesheet type="text/xsl" href="book.xsl"?>
+<library>
+    <category name="Fiction"><!--name="Ficition" is an attribute-->
+        <book isbn="978-0451524935">
+            <title>1984</title>
+            <author>George Orwell</author>
+            <year>1949</year>
+            <chapters>
+                <chapter number="1">War is Peace</chapter>
+                <chapter number="2">Freedom is Slavery</chapter>
+                <chapter number="3">Ignorance is Strength</chapter>
+            </chapters>
+            <reviews>
+                <review rating="5">Classic dystopian novel</review>
+                <review rating="4">Very thought-provoking</review>
+            </reviews>
+        </book>
+        <book isbn="978-0743273565">
+            <title>The Great Gatsby</title>
+            <author>F. Scott Fitzgerald</author>
+            <year>1925</year>
+            <chapters>
+                <chapter number="1">Chapter 1</chapter>
+                <chapter number="2">Chapter 2</chapter>
+                <chapter number="3">Chapter 3</chapter>
+            </chapters>
+            <reviews>
+                <review rating="5">American classic</review>
+                <review rating="4">Beautiful writing</review>
+            </reviews>
+        </book>
+    </category>
+    
+    <category name="Science">
+        <book isbn="978-0684830490">
+            <title>A Brief History of Time</title>
+            <author>Stephen Hawking</author>
+            <year>1988</year>
+            <chapters>
+                <chapter number="1">Our Picture of the Universe</chapter>
+                <chapter number="2">Space and Time</chapter>
+                <chapter number="3">The Expanding Universe</chapter>
+            </chapters>
+            <reviews>
+                <review rating="5">Makes complex topics accessible</review>
+                <review rating="4">Mind-expanding read</review>
+            </reviews>
+        </book>
+    </category>
+</library>

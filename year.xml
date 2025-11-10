@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="year.xsl"?>
+<books>
+  <book>
+    <title>Book Title 1</title>
+    <author>Author 1</author>
+    <department>Department 1</department>
+    <isbn>978-0000000001</isbn>
+    <year>2024</year>
+    <edition>1st</edition>
+  </book>
+  <book>
+    <title>Book Title 2</title>
+    <author>Author 2</author>
+    <department>Department 2</department>
+    <isbn>978-0000000002</isbn>
+    <year>2022</year>
+    <edition>2nd</edition>
+  </book>
+  <book>
+    <title>Book Title 3</title>
+    <author>Author 3</author>
+    <department>Department 3</department>
+    <isbn>978-0000000003</isbn>
+    <year>2024</year>
+    <edition>3rd</edition>
+  </book>
+  <book>
+    <title>Book Title 4</title>
+    <author>Author 4</author>
+    <department>Department 4</department>
+    <isbn>978-0000000004</isbn>
+    <year>2019</year>
+    <edition>1st</edition>
+  </book>
+  <book>
+    <title>Book Title 5</title>
+    <author>Author 5</author>
+    <department>Department 5</department>
+    <isbn>978-0000000005</isbn>
+    <year>2024</year>
+    <edition>2nd</edition>
+  </book>
+  <book>
+    <title>Book Title 6</title>
+    <author>Author 6</author>
+    <department>Department 6</department>
+    <isbn>978-0000000006</isbn>
+    <year>2023</year>
+    <edition>1st</edition>
+  </book>
+  <book>
+    <title>Book Title 7</title>
+    <author>Author 7</author>
+    <department>Department 7</department>
+    <isbn>978-0000000007</isbn>
+    <year>2024</year>
+    <edition>4th</edition>
+  </book>
+  <book>
+    <title>Book Title 8</title>
+    <author>Author 8</author>
+    <department>Department 8</department>
+    <isbn>978-0000000008</isbn>
+    <year>2025</year>
+    <edition>1st</edition>
+  </book>
+  <book>
+    <title>Book Title 9</title>
+    <author>Author 9</author>
+    <department>Department 9</department>
+    <isbn>978-0000000009</isbn>
+    <year>2017</year>
+    <edition>2nd</edition>
+  </book>
+  <book>
+    <title>Book Title 10</title>
+    <author>Author 10</author>
+    <department>Department 10</department>
+    <isbn>978-0000000010</isbn>
+    <year>2016</year>
+    <edition>3rd</edition>
+  </book>
+</books>

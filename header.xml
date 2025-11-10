@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bib_record>
+    <publication_title>Continental Rifted Margins 1</publication_title>
+    <download_info>
+        <source_url>https://onlinelibrary.wiley.com/doi/</source_url>
+        <downloaded_by>Elsevier Bv, Wiley Online Library</downloaded_by>
+        <download_date>2025-02-02</download_date>
+        <terms_and_conditions>https://onlinelibrary.wiley.com/terms-and-conditions</terms_and_conditions>
+        <license_note>OA articles are governed by the applicable Creative Commons License</license_note>
+    </download_info>
+ 
+    <discipline>Sciences</discipline>
+    <field_of_study>Geoscience</field_of_study>
+ 
+    <contributors>
+        <field_director>Yves Lagabrielle</field_director>
+        <subject_head>Sylvie Leroy</subject_head>
+        <coordinator>Gwenn Peron-Pinvidic</coordinator>
+    </contributors>
+ 
+    <section_title>Definition and Methodology</section_title>
+ 
+    <publication_details>
+        <first_published>2022</first_published>
+        <locations>
+            <country>Great Britain</country>
+            <country>United States</country>
+        </locations>
+        <publishers>
+            <publisher name="ISTE Ltd">
+                <address>
+                    <street>27-37 St George’s Road</street>
+                    <city>London</city>
+                    <postcode>SW19 4EU</postcode>
+                    <country>UK</country>
+                </address>
+                <website>www.iste.co.uk</website>
+            </publisher>
+            <publisher name="John Wiley &amp; Sons, Inc.">
+                <address>
+                    <street>111 River Street</street>
+                    <city>Hoboken</city>
+                    <state>NJ</state>
+                    <postcode>07030</postcode>
+                    <country>USA</country>
+                </address>
+                <website>www.wiley.com</website>
+            </publisher>
+        </publishers>
+    </publication_details>
+    <copyright_info>
+        <holder>ISTE Ltd</holder>
+        <year>2022</year>
+        <rights_statement>
+            The rights of Gwenn Peron-Pinvidic to be identified as the author of this work
+            have been asserted in accordance with the Copyright, Designs and Patents Act 1988.
+        </rights_statement>
+        <reproduction_notice>
+            Apart from fair dealing for research, private study, criticism or review,
+            reproduction or transmission requires prior written permission from the publishers.
+            Reprographic reproduction must follow CLA licensing terms.
+        </reproduction_notice>
+    </copyright_info>
+ 
+    <disclaimer>
+        Any opinions, findings, conclusions or recommendations expressed in this material
+        are those of the author(s), contributor(s), or editor(s) and do not necessarily
+        reflect the views of ISTE Group.
+    </disclaimer>
+
+    <catalogue_data>
+        <library_of_congress_control_number>2021950855</library_of_congress_control_number>
+        <british_library_cip>A CIP record for this book is available from the British Library</british_library_cip>
+        <isbn>978-1-78945-061-3</isbn>
+    </catalogue_data>
+ 
+    <erc_codes>
+        <erc_code>PE10 Earth System Science</erc_code>
+        <sub_code code="PE10_5">Geology, tectonics, volcanology</sub_code>
+        <sub_code code="PE10_7">Physics of earth’s interior, seismology, volcanology</sub_code>
+        <sub_code code="PE10_11">Geochemistry, crystal chemistry, isotope geochemistry, thermodynamics</sub_code>
+        <sub_code code="PE10_12">Sedimentology, soil science, palaeontology, earth evolution</sub_code>
+    </erc_codes>
+</bib_record>

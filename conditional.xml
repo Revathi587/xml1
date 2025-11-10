@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--If“UTF” stands for Unicode Standard Transformation Format. 
+It refers to a way of encoding characters (letters, symbols, etc.) defined by Unicode into bytes for storage or transmission.
+<xsl:stylesheet version="1.0"-->
+<?xml-stylesheet type="text/xsl" href="conditional.xsl"?>
+<book>
+    <title>Exploring the Future with Data Science</title>
+    <author>Raghav R</author>
+    <publisher>TechVision Publications</publisher>
+    <year>2025</year>
+
+    <publicationDetails>
+        <isbn>978-93-12345-6789</isbn>
+        <language>English</language>
+        <pages>420</pages>
+    </publicationDetails>
+
+    <content>
+        <chapter>
+            <title>Introduction to Modern Data</title>
+            <text>
+                Data has become the core element of every successful digital transformation.
+                Organizations across the world are harnessing the power of data to make smarter decisions.
+            </text>
+        </chapter>
+
+        <chapter>
+            <title>What is Data Science?</title>
+            <text>
+                Data Science is a multidisciplinary field that uses algorithms, statistics, and machine learning 
+                to extract insights from structured and unstructured data. It helps businesses understand 
+                trends, forecast demand, and improve efficiency.
+            </text>
+        </chapter>
+
+        <chapter>
+            <title>The Future Ahead</title>
+            <text>
+                With artificial intelligence and automation growing rapidly, the importance of data science 
+                will continue to rise. The demand for skilled professionals in this field is expected 
+                to grow exponentially.
+            </text>
+        </chapter>
+    </content>
+
+    <keywords>
+        <keyword>Artificial Intelligence</keyword>
+        <keyword>Machine Learning</keyword>
+        <keyword>Deep Learning</keyword>
+        <keyword>Big Data</keyword>
+        <keyword>Statistics</keyword>
+        <keyword>Analytics</keyword>
+        <keyword>Data Science</keyword>
+        <keyword>Neural Networks</keyword>
+        <keyword>Python</keyword>
+        <keyword>Cloud Computing</keyword>
+        <keyword>Predictive Modeling</keyword>
+        <keyword>Data Mining</keyword>
+        <keyword>Visualization</keyword>
+        <keyword>AI Ethics</keyword>
+        <keyword>Automation</keyword>
+        <keyword>Innovation</keyword>
+        <keyword>Digital Transformation</keyword>
+    </keywords>
+</book>
